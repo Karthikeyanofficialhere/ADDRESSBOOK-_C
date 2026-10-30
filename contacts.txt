@@ -1,0 +1,17 @@
+dinesh,1234567890,dinesh@gmail.com
+Carol White,4445556666,carol@company.com
+Eve Davis,6665554444,eve@example.com
+Grace Wilson,2223334444,grace@example.com
+Hannah Clark,5556667777,hannah@example.com
+Ian Lewis,8889990000,ian@example.com
+karthik,9361080845,karthikeyan@gmail.com
+sagar,9361080847,sagar@gmail.com
+karthikeyan,9843565096,eswaran1969@gmail.com
+karthikn,8123456789,karthik@gmail.com
+swetha,7639741969,swethaeswaran2000@gmail.com
+aswin,6384196989,aswin8000@gmail.com
+eswaran,9045678234,eswar1969@gmail.com
+padmavathy,9787173387,padmavathy@gmail.com
+madhan kumar s,8147221060,madhankumar@gmail.com
+Ketan,7741864985,kunalshirbhate@gmail.com
+dharsan dharsan,9999999999,dharsan@gmail.com
