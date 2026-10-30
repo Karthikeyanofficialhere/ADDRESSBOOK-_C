@@ -44,8 +44,6 @@ Address-Book/
 ├── contacts.txt
 ├── README.md
 ├── .gitignore
-│
-└── screenshots/
 
 Compilation and Execution
 
